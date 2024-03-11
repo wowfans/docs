@@ -5,7 +5,10 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: '魔兽爱好者',
+			title: 'WOWFANS',
+			logo: {
+				src: './src/assets/logo.png',
+			  },
 			defaultLocale: 'root', // 可选
 			locales: {
 				root: {
