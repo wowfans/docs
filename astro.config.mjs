@@ -3,7 +3,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://wowfans.github.io/wowfans.cn',
+	site: 'https://docs.wowfans.cn',
 	integrations: [
 		starlight({
 			title: 'WOWFANS',
