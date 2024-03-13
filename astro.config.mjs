@@ -6,7 +6,7 @@ export default defineConfig({
 	site: 'https://docs.wowfans.cn',
 	integrations: [
 		starlight({
-			title: 'WOWFANS',
+			title: 'DOCS',
 			logo: {
 				src: './src/assets/logo.png',
 			  },
