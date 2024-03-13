@@ -9,7 +9,8 @@ export default defineConfig({
 			title: 'DOCS',
 			logo: {
 				src: './src/assets/logo.png',
-			  },
+			},
+			favicon: './src/assets/logo.png',
 			defaultLocale: 'root', // 可选
 			locales: {
 				root: {
